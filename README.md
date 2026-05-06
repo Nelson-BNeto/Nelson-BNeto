@@ -50,7 +50,7 @@ A transição da aviação para a tecnologia foi consolidada através do rigor a
 
 ---
 
-### 🏗️ Projetos em construção 
+### 🏗️ Projetos
 *   **Slack Bot Observer (Arquitetura Serverless):**  
     Desenvolvimento de uma solução em **Python** hospedada em **AWS (Lambda, EventBridge, S3)**. O sistema automatiza a triagem de dados de financiamento, entregando inteligência acionável em tempo real e eliminando processos manuais.
 *   **Gestão de Estoque em Tempo Real:**  

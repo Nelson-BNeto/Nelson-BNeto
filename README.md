@@ -54,8 +54,8 @@ A transição da aviação para a tecnologia foi consolidada através do rigor a
 *   **Slack Bot Observer (Arquitetura Serverless):**  
     Desenvolvimento de uma solução em **Python** hospedada em **AWS (Lambda, EventBridge, S3)**. O sistema automatiza a triagem de dados de financiamento, entregando inteligência acionável em tempo real e eliminando processos manuais.
 *   **Gestão de Estoque em Tempo Real:**  
-    Arquitetura de banco de dados via **Supabase** para monitoramento instantâneo de ativos (veículos novos e seminovos), visando a aniquilação da latência de informação entre o pátio e o comercial.
+    Arquitetura de banco de dados via **Supabase** para monitoramento instantâneo de ativos (veículos novos e seminovos), visando pouca ou nenhuma latência de informação entre o pátio e o comercial.
 *   **Web Scraping & Inteligência Competitiva:**  
-    Scripts avançados em Python para extração de dados de mercado, permitindo o acompanhamento agressivo da concorrência e ajustes de preços no marketplace.
+    Scripts avançados em Python para extração de dados de mercado, permitindo o acompanhamento da concorrência e ajustes de preços no marketplace.
 
 ---

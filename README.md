@@ -2,7 +2,7 @@
 
 <div class="container" style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px; text-align: left">
     <div style="flex: 1; min-width: 180px; text-align:center">
-        <img src="https://github.com/nelsonbneto.png" width="180px;" style="border-radius:50%;" alt="Nelson Borges Neto"/>
+        <img src="https://github.com/Nelson-BNeto.png" width="180px;" style="border-radius:50%;" alt="Nelson Borges Neto"/>
     </div>
     <div style="flex: 3; min-width: 300px;">
       <h1>Nelson Borges Neto</h1>

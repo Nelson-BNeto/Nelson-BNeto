@@ -1,27 +1,20 @@
 <h1>Hello World!</h1>
+
 <div class="container" style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px; text-align: left">
-<!-- <table align="center"> -->
     <div style="flex: 1; min-width: 180px; text-align:center">
-    <!-- <tr> -->
-        <!-- <td align="center" width="200"> -->
-            <img src="https://github.com/nelsonbneto.png" width="180px;" style="border-radius:50%;" alt="Nelson Borges Neto"/>
-        <!-- </td> -->
+        <img src="https://github.com/nelsonbneto.png" width="180px;" style="border-radius:50%;" alt="Nelson Borges Neto"/>
     </div>
-    <!-- <td> -->
     <div style="flex: 3; min-width: 300px;">
       <h1>Nelson Borges Neto</h1>
       <h3>Operações de Tecnologia | Data, Cloud & Tech Ops</h3>
       <p><i>Ironicamente, foi parando de voar e colocando os pés no chão que minha carreira profissional realmente decolou.</i></p>
-      <a href="https://www.linkedin.com/in/nelsonbneto/">
+      <a href="https://www.linkedin.com/in/nelsonbneto/" style="text-decoration-line: none;">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
       <a href="mailto:nelson.bneto@outlook.com">
         <img src="https://img.shields.io/badge/Contato_Profissional-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
     </div>
-    <!-- </td> -->
-  <!-- </tr> -->
-<!-- </table> -->
 </div>
 ---
 

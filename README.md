@@ -8,13 +8,14 @@
       <h1>Nelson Borges Neto</h1>
       <h3>Operações de Tecnologia | Data, Cloud & Tech Ops</h3>
       <p><i>Ironicamente, foi parando de voar e colocando os pés no chão que minha carreira profissional realmente decolou.</i></p>
-      <a href="https://www.linkedin.com/in/nelsonbneto/" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          <div>
+        <a href="https://www.linkedin.com/in/nelsonbneto/" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
-      <a href="mailto:nelson.bneto@outlook.com" style="text-decoration: none;>
+      <a href="mailto:nelson.bneto@outlook.com" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Contato_Profissional-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
-    </div>
+</div>
 </div>
 ---
 

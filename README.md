@@ -37,6 +37,10 @@ A transição da aviação para a tecnologia foi consolidada através do rigor a
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+**Inteligência Artificial & Engenharia de Prompt:**  
+![Google Gemini](https://img.shields.io/badge/Google_Gemini_API-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 **Infraestrutura & Cloud:**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)

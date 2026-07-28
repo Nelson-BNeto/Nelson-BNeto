@@ -8,15 +8,17 @@
       <h1>Nelson Borges Neto</h1>
       <h3>Operações de Tecnologia | Data, Cloud & Tech Ops</h3>
       <p><i>Ironicamente, foi parando de voar e colocando os pés no chão que minha carreira profissional realmente decolou.</i></p>
-          <div>
+      <div>
         <a href="https://www.linkedin.com/in/nelsonbneto/" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-      <a href="mailto:nelson.bneto@outlook.com" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Contato_Profissional-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-      </a>
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+        <a href="mailto:nelson.bneto@outlook.com" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/Contato_Profissional-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+        </a>
+      </div>
+    </div>
 </div>
-</div>
+
 ---
 
 ### 🏛️ Perfil
@@ -25,7 +27,7 @@ A transição da aviação para a tecnologia foi consolidada através do rigor a
 
 - 🎓 **MBA em Big Data** & **Pós-graduação em Análise de Dados** (2023-2025).
 - 🧠 **Visão Pragmática:** Base sólida em gestão e processos, convertendo complexidade técnica em resultados operacionais.
-- ⚡ **Impacto Real:** A implementação de arquiteturas via API e automações resultou na estabilização crítica de processos e redução de *churn*.
+- ⚡ **Impacto Real:** A implementação de arquiteturas via API, esteiras de CI/CD e automações resultou na estabilização crítica de processos e redução de *churn*.
 
 ---
 
@@ -37,11 +39,13 @@ A transição da aviação para a tecnologia foi consolidada através do rigor a
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-**Inteligência Artificial & Engenharia de Prompt:**  
+**Inteligência Artificial & LLM Ops:**  
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini_API-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Opik](https://img.shields.io/badge/Opik_AI_Evaluation-512BD4?style=for-the-badge&logo=comet&logoColor=white)
 
-**Infraestrutura & Cloud:**  
+**DevOps, Cloud & Infraestrutura:**  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
@@ -53,8 +57,8 @@ A transição da aviação para a tecnologia foi consolidada através do rigor a
 ---
 
 ### 🏗️ Projetos
-*   **Slack Bot Observer (Arquitetura Serverless):**  
-    Desenvolvimento de uma solução em **Python** hospedada em **AWS (Lambda, EventBridge, S3)**. O sistema automatiza a triagem de dados de financiamento, entregando inteligência acionável em tempo real e eliminando processos manuais.
+*   **Slack Bot Observer (Arquitetura Serverless, CI/CD & Observabilidade com Opik):**  
+    Solução automatizada em **Python** hospedada em **AWS (Lambda, EventBridge, S3)** com implantação contínua (CI/CD) orquestrada via **GitHub Actions**. Integra a **Google Gemini API** para extração/análise de relatórios de financiamento e utiliza o **Opik** para rastreamento (tracing), avaliação contínua de prompts e gestão da qualidade das respostas geradas antes de enviá-las ao Slack.
 *   **Gestão de Estoque em Tempo Real:**  
     Arquitetura de banco de dados via **Supabase** para monitoramento instantâneo de ativos (veículos novos e seminovos), visando pouca ou nenhuma latência de informação entre o pátio e o comercial.
 *   **Web Scraping & Inteligência Competitiva:**  

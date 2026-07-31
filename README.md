@@ -39,6 +39,11 @@ A transição da aviação para a tecnologia foi consolidada através do rigor a
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+**Plataformas de CRM & Ecossistema Automotivo (B2D / B2C):**  
+![Syonet CRM](https://img.shields.io/badge/Syonet_CRM-DC222A?style=for-the-badge&logo=syonet&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Oracle Siebel](https://img.shields.io/badge/Oracle_Siebel-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
 **Inteligência Artificial & LLM Ops:**  
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini_API-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -59,8 +64,8 @@ A transição da aviação para a tecnologia foi consolidada através do rigor a
 ### 🏗️ Projetos
 *   **Slack Bot Observer (Arquitetura Serverless, CI/CD & Observabilidade com Opik):**  
     Solução automatizada em **Python** hospedada em **AWS (Lambda, EventBridge, S3)** com implantação contínua (CI/CD) orquestrada via **GitHub Actions**. Integra a **Google Gemini API** para extração/análise de relatórios de financiamento e utiliza o **Opik** para rastreamento (tracing), avaliação contínua de prompts e gestão da qualidade das respostas geradas antes de enviá-las ao Slack.
-*   **Gestão de Estoque em Tempo Real:**  
-    Arquitetura de banco de dados via **Supabase** para monitoramento instantâneo de ativos (veículos novos e seminovos), visando pouca ou nenhuma latência de informação entre o pátio e o comercial.
+*   **Gestão de Estoque e Arquitetura de CRM (Syonet, Supabase & Salesforce/Siebel):**  
+    Configuração avançada e gestão de jornadas de clientes no **Syonet CRM** (réguas de relacionamento, disparos de templates via HTML/CSS e automações), integradas à arquitetura de dados em **Supabase** para monitoramento de estoque em tempo real e interface com as plataformas corporativas da montadora (Oracle Siebel e Salesforce).
 *   **Web Scraping & Inteligência Competitiva:**  
     Scripts avançados em Python para extração de dados de mercado, permitindo o acompanhamento da concorrência e ajustes de preços no marketplace.
 

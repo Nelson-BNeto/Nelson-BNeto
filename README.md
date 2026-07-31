@@ -63,9 +63,9 @@ A transição da aviação para a tecnologia foi consolidada através do rigor a
 
 ### 🏗️ Projetos
 *   **Slack Bot Observer (Arquitetura Serverless, CI/CD & Observabilidade com Opik):**  
-    Solução automatizada em **Python** hospedada em **AWS (Lambda, EventBridge, S3)** com implantação contínua (CI/CD) orquestrada via **GitHub Actions**. Integra a **Google Gemini API** para extração/análise de relatórios de financiamento e utiliza o **Opik** para rastreamento (tracing), avaliação contínua de prompts e gestão da qualidade das respostas geradas antes de enviá-las ao Slack.
+    Solução automatizada em **Python** hospedada em **AWS** com implantação contínua via **GitHub Actions**. Integra a **Google Gemini API** para extração/análise de relatórios de financiamento e utiliza o **Opik** para rastreamento (tracing), avaliação contínua de prompts e gestão da qualidade das respostas geradas antes de registra-las.
 *   **Gestão de Estoque e Arquitetura de CRM (Syonet, Supabase & Salesforce/Siebel):**  
-    Configuração avançada e gestão de jornadas de clientes no **Syonet CRM** (réguas de relacionamento, disparos de templates via HTML/CSS e automações), integradas à arquitetura de dados em **Supabase** para monitoramento de estoque em tempo real e interface com as plataformas corporativas da montadora (Oracle Siebel e Salesforce).
+    Configuração avançada e gestão de jornadas de clientes no **Syonet CRM** (réguas de relacionamento, disparos de templates via HTML/CSS, SMS, WhatsApp e automações), integradas à arquitetura de dados em **Supabase** para monitoramento de estoque em tempo real e interface com as plataformas corporativas da montadora (Oracle Siebel e Salesforce).
 *   **Web Scraping & Inteligência Competitiva:**  
     Scripts avançados em Python para extração de dados de mercado, permitindo o acompanhamento da concorrência e ajustes de preços no marketplace.
 
